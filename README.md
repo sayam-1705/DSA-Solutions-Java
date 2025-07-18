@@ -40,6 +40,7 @@ I'm solving each problem step-by-step and using this repo to track my progress, 
      ├── first/java
           ├── EvenOdd.java
           ├── GreetName.java
+          ├── SimpleInterest.java
      ├── pattern/java
           ├── PatternOne.java
           ├── PatternTwo.java
