@@ -41,6 +41,7 @@ I'm solving each problem step-by-step and using this repo to track my progress, 
           ├── EvenOdd.java
           ├── GreetName.java
           ├── SimpleInterest.java
+          ├── SimpleArithmatic.java
      ├── pattern/java
           ├── PatternOne.java
           ├── PatternTwo.java
