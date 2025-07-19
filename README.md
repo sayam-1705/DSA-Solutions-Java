@@ -42,6 +42,7 @@ I'm solving each problem step-by-step and using this repo to track my progress, 
           ├── GreetName.java
           ├── SimpleInterest.java
           ├── SimpleArithmatic.java
+          ├── GreaterNumber.java
      ├── pattern/java
           ├── PatternOne.java
           ├── PatternTwo.java
