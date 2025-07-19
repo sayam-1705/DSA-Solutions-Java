@@ -44,6 +44,7 @@ I'm solving each problem step-by-step and using this repo to track my progress, 
           ├── SimpleArithmatic.java
           ├── GreaterNumber.java
           ├── INRtoUSD.java
+          ├── FibonacciSeries.java
      ├── pattern/java
           ├── PatternOne.java
           ├── PatternTwo.java
