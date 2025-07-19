@@ -43,6 +43,7 @@ I'm solving each problem step-by-step and using this repo to track my progress, 
           ├── SimpleInterest.java
           ├── SimpleArithmatic.java
           ├── GreaterNumber.java
+          ├── INRtoUSD.java
      ├── pattern/java
           ├── PatternOne.java
           ├── PatternTwo.java
